@@ -22,6 +22,8 @@ Oecd_city_economy.csv — datos económicos
 2. Abre el archivo `notebook.ipynb` en Jupyter Notebook o Google Colab
 3. Ejecuta las celdas en orden de arriba hacia abajo.
 
+![Gráfica de movilidad urbana](grafica.JPG)
+
 **Recomendaciones**
 
 **1. Priorizar inversiones en infraestructura de movilidad en ciudades con mayor congestión.**
