@@ -26,6 +26,8 @@ Oecd_city_economy.csv — datos económicos
 2. Abre el archivo `notebook.ipynb` en Jupyter Notebook o Google Colab
 3. Ejecuta las celdas en orden de arriba hacia abajo.
 
+![notebook](
+
 ![Gráfica de movilidad urbana](grafica.JPG)
 
 ![Respuesta1](pregunta1.JPG)
