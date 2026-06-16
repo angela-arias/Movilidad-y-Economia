@@ -1,2 +1,3 @@
 # Movilidad-y-Economia
-Análisis de indicadores movilidad urbana y PIB.
+El objetivo fue identificar en qué ciudades invertir en infraestructura de transporte para mejorar la productividad y el bienestar de la población. Para ello, utilicé las herramientas Jupyter Notebook / Python / pandas / matplotlib / Numpy / seaborn, que me permitieron limpiar datos, hacer visualizaciones, comparar ciudades con indicadores específicos como calcular promedios de tráfico por ciudad. Como resultado, se analizaron 15 ciudades en 7 países latinoamericanos, de los cuales se debe priorizar inversiones en infraestructura de movilidad en ciudades con mayor congestión en Ciudad de México, São Paulo y Lima.
+Las tablas utilizadas on TomTom Traffic Index (congestión vehicular) y OECD Cities (PIB per cápita, desempleo, población).
