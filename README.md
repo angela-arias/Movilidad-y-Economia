@@ -5,7 +5,11 @@ Esto me permitió limpiar datos, hacer visualizaciones, comparar ciudades con in
 
 Como resultado, se analizaron 15 ciudades en 7 países latinoamericanos, de los cuales se debe priorizar inversiones en infraestructura de movilidad en ciudades con mayor congestión en Ciudad de México, São Paulo y Lima.
 
-Las tablas utilizadas on TomTom Traffic Index (congestión vehicular) y OECD Cities (PIB per cápita, desempleo, población).
+**Datos:**
+
+![Dataset TomTom Traffic](data1.JPG)
+
+![Dataset OECD Economy](data2.JPG)
 
 **Estructura del proyecto:**
 
