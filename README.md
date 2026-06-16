@@ -28,6 +28,12 @@ Oecd_city_economy.csv — datos económicos
 
 ![Gráfica de movilidad urbana](grafica.JPG)
 
+![Respuesta1](pregunta1.JPG)
+![Respuesta2](pregunta2.JPG)
+![Respuesta3](pregunta3.JPG)
+
+
+
 **Recomendaciones**
 
 **1. Priorizar inversiones en infraestructura de movilidad en ciudades con mayor congestión.**
