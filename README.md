@@ -8,9 +8,13 @@ Como resultado, se analizaron 15 ciudades en 7 países latinoamericanos, de los 
 Las tablas utilizadas on TomTom Traffic Index (congestión vehicular) y OECD Cities (PIB per cápita, desempleo, población).
 
 **Estructura del proyecto:**
+
 Notebook.ipynb — análisis principal
+
 Tomtom_traffic.csv — datos de tráfico
+
 Oecd_city_economy.csv — datos económicos
+
 
 **¿Cómo ejecutar el proyecto?**
 
